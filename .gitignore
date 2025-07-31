@@ -1,0 +1,23 @@
+# Arquivo de segredos. NUNCA envie este arquivo!
+.env
+
+# Banco de dados
+db.sqlite3
+*.sqlite3
+
+# Ambiente Virtual do Python
+.venv/
+venv/
+ENV/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração de IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos estáticos e de mídia (se você os tiver localmente)
+/static/
+/media/
